@@ -1,5 +1,5 @@
 # E-Commerce-App-UI-Flutter
-# Flutter E-commerce App UI
+# Flutter Shop
 
 A beautifully designed User Interface for an E-commerce application, built with Flutter. This project showcases a clean and modern design for browsing products, viewing details, and adding items to a cart.
 
